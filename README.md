@@ -1,4 +1,4 @@
-phpCoderX
-=========
+<?php
 
-Burada ilk denem linkim var
+echo "deneme deneme";
+?>
